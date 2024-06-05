@@ -4,6 +4,7 @@ import "math/rand"
 
 func main() {
 	println(Dota2Name())
+	//
 }
 
 func Dota2Name() string {
