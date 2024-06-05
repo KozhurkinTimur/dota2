@@ -1,3 +1,3 @@
-module kozhurkin/timur/dota2/random/name
+module random/name
 
 go 1.22.1
