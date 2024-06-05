@@ -1,4 +1,4 @@
-package dota2
+package name
 
 import "math/rand"
 
